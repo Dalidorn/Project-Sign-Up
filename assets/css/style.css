@@ -11,14 +11,15 @@
 /* || Element Selector */
 
 img {
-
+    display: inline;
+    width: 50%;
 }
 
 /* header is fixed to top of page */
 header {
     position: fixed;
     top: 0;
-    width: 80%;
+    width: 100%;
     margin: auto;
     display: inline;
     background-color: rgb(0, 0, 0);
